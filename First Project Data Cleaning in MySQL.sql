@@ -163,3 +163,6 @@ FROM layoffs_ba_dp;
 
 ALTER TABLE layoffs_ba_dp
 DROP COLUMN row_nu;
+
+SELECT *
+FROM layoffs_ba_dp;
