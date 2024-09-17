@@ -156,7 +156,7 @@ AND percentage_laid_off IS NULL
 SELECT *
 FROM layoffs_ba_dp;
 
--- 4. Remove any calumns
+-- 4. Remove any unnecessary calumns  
 
 SELECT *
 FROM layoffs_ba_dp;
